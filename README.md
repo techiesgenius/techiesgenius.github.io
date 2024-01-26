@@ -1,30 +1,29 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+## नमस्ते 🙏
+[![](https://img.shields.io/badge/LinkedIn-ayushkumar25-blue)](https://www.linkedin.com/in/ayushkumar25/)
+[![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red)](mailto:ayush2608@gmail.com)
+[![](https://img.shields.io/badge/Telegram-%40ayushkumar__25-blue)](https://t.me/ayushkumar_25)
+[![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen)](https://www.hackerrank.com/ayushkumar_25)
 
-## नमस्ते 🙏, I'm ASHRAF K.M 
-## Full Stack Developer 👨‍💻
+![](https://github.com/ayushkumar-25/ayushkumar-25/blob/master/aboutMe.png)
+<!-- TO make screenshot of your code, copy below link:  
+https://carbon.now.sh/ -->
 
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
-[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:ashrafkm010@gmail.com)
+## About Me:
+#### Always curious to learn cutting edge technology. A bit enthusiast towards web development. Competitive coding and motor sports boost my adrenaline. <br> <br>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25) <br>
+<!-- [![HitCount](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25) -->
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25)
+[![HitCount](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25) <br>
 
-```javascript
-const ashraf = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "web dev", "tech"],
-    technologies:{
-        backEnd: ["nodejs", "express", "python"],
-        fronEnd: ["angular"],
-        mobileApp: ["ionic","angular"],
-        database: ["mongo","mySql"],
-        serverless: ["mongo-realm","aws-lambda"],
-        devOps: ["AWS", "Nginx", "Jenkins"],
-        misc: ["Firebase", "Socket.IO"]
-    },
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
-}
-```
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ---
-⭐️ From [@ashrafkm](https://github.com/ashrafkm)
+
+⭐️ From [@ayushkumar-25](https://github.com/ayushkumar-25)
+
+<!-- TO make screenshot of your code, copy below link:  
+https://carbon.now.sh/ -->
