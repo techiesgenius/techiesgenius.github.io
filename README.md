@@ -1,45 +1,39 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+# Hi I'm Jessica 👋
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
+[![Medium Badge](https://img.shields.io/badge/-@__jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)](https://medium.com/@_jessicalim)
+[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me)
+[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
+[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/jlim_slam)
+[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
 
-<a href="https://twitter.com/iampavangandhi">
-  <img align="left" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/iampavangandhi">
-  <img align="left" alt="Pavan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/iampavangandhi">
-  <img align="left" alt="Pavan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/iampavangandhi">
-  <img align="left" alt="Pavan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/iampavangandhi/">
-  <img align="left" alt="Pavan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/iampavangandhi/">
-  <img align="left" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.hackerrank.com/iampavangandhi/">
-  <img align="left" alt="Pavan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
+Welcome to my profile! I'm a student, aspiring [writer](https://medium.com/@_jessicalim), part-time coder and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/jlim/)!
 
-<br />
 
-### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi)
+## Join the Community Word Cloud :cloud: :pencil2:
 
-I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+![](https://img.shields.io/badge/Words%20Added-9-brightgreen?labelColor=7D898B)
+![](https://img.shields.io/badge/Word%20Clouds%20Created-1-48D6FF?labelColor=7D898B)
+![](https://img.shields.io/badge/Total%20Contributors-6-AC6EFF?labelColor=7D898B)
 
-### More about me...
+### :thought_balloon: [Add a word](https://github.com/JessicaLim8/JessicaLim8/issues/new?title=wordcloud%7C%3Cinsert-word%3E&body=Just+replace+%3Cinsert-word%3E+with+your+word!%0D%0ANext+click+%27Submit+new+issue%27) to see the word cloud update in real time :rocket:
 
-- 🔭 I’m currently working on Node.js, Express.js, React, Graphql, MongoDB, etc 💻.
-- 🌱 I’m currently learning Full Stack Development 🚀.
-- 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
-- 📫 How to reach me: pavangandhi100@gmail.com | [LinkedIn](https://linkedin.com/in/iampavangandhi) | [Twitter](https://twitter.com/iampavangandhi) | [Instagram](https://instagram.com/iampavangandhi) | [Portfolio](https://iampavangandhi.github.io/)
-- 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, Docker, etc.
-- 💬 Ask me about anything! I am happy to help and guide you.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:pavangandhi100@gmail.com?Subject=Hello%20Pavan) 👨‍💻.
+A new word cloud will be automatically generated when you [add your own word](https://github.com/JessicaLim8/JessicaLim8/issues/new?title=wordcloud%7C%3Cinsert-word%3E&body=Just+replace+%3Cinsert-word%3E+with+your+word!%0D%0ANext+click+%27Submit+new+issue%27). The prompt will change frequently, so be sure to come back and check it out :relaxed:
 
-### Show some ❤️ by starring some of the repositories!
+<div align="center">
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true)
+  ## *Favourite Quarantine Passtime?* :lock: :tennis: :video_game:
 
-⭐️ From [iampavangandhi](https://github.com/iampavangandhi)
+  <img src="https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
+
+  ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-9-informational?labelColor=7D898B)
+  ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-6-blueviolet?labelColor=7D898B)
+
+  [![Github Badge](https://img.shields.io/badge/-@PradCoder-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/PradCoder)](https://github.com/PradCoder) 
+  [![Github Badge](https://img.shields.io/badge/-@JonathanXu1-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/JonathanXu1)](https://github.com/JonathanXu1) 
+  [![Github Badge](https://img.shields.io/badge/-@JonathanGin52-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/JonathanGin52)](https://github.com/JonathanGin52) 
+  [![Github Badge](https://img.shields.io/badge/-@MaanavD-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/MaanavD)](https://github.com/MaanavD) 
+  [![Github Badge](https://img.shields.io/badge/-@will--r--wang-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/will-r-wang)](https://github.com/will-r-wang) 
+  [![Github Badge](https://img.shields.io/badge/-@JessicaLim8-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/JessicaLim8)](https://github.com/JessicaLim8) 
+
+  **⭐️ From [JessicaLim8](https://github.com/JessicaLim8)**
+</div>
