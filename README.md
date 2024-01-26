@@ -1,45 +1,32 @@
-# Sudipto Ghosh 👨‍💻
+<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-[![ACM](https://img.shields.io/badge/-ACM%20Student%20Member-222222?style=flat-square&logo=acm&logoColor=white&link=http://member.acm.org/~sudiptoghosh)](http://member.acm.org/~sudiptoghosh)
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ScientificGhosh/)](https://twitter.com/ScientificGhosh/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/sudiptoghosh99/)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10780031/sudipto-ghosh)](https://stackoverflow.com/users/10780031/sudipto-ghosh)
-[![Keybase](https://img.shields.io/badge/-Keybase-222222?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/sudiptog81)](https://keybase.io/sudiptog81)
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
-👨‍🎓 Majoring in Computer Science and Mathematics  from the University of Delhi (Class of 2022) 
 
-```js
-export default () => ({
-  pronouns: "He" | "Him",
-  pubKey: "866E 3ED1 217B 85DC",
-  blogUrl: "http://blog.ghosh.pro/",
-  askMeAbout: [
-    "webdev", "tech", "music",
-    "mathematics", "research"
-  ],
-  technologies: {
-    frontEnd: {
-      js: ["react", "angular", "vue"],
-      css: ["materialize", "bulma", "bootstrap"]
-    },
-    backEnd: {
-      java: ["spring"],
-      js: ["node", "express"],
-      csharp: ["asp.net core"],
-      python: ["django", "flask"],
-      misc: ["bash", "systemd", "selinux"]
-    },
-    machineLearning: ["tensorflow", "keras", "pytorch"],
-    databases: ["mongo", "postgres", "redis"]
-  },
-  memberships: [
-    "Internet Freedom Foundation",
-    "Association for Computing Machinery",
-    "Institute of Electrical and Electronics Engineers"
-  ]
-});
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "RailsGirls POA"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
 ```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
-⭐️ From [sudiptog81](https://github.com/sudiptog81)
+⭐️ From [@Thaiane](https://github.com/Thaiane)
