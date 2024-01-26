@@ -1,37 +1,53 @@
-### 👋 Introduction
+# 👋 
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Single-red) ![](https://img.shields.io/static/v1?label=wechat&message=lizheming&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/lizheming)
+Hi, I'm Marc Duiker and I ❤ Serverless, DevCommunity, and Creative Coding! 😊
 
-Hi guys, I'm **Li Zheming**. I am a JavaScript developer from Beijing, China. I'm currently working on @75team as a Font-End engineer.  
-I have some works with **JavaScript**, **Node.js** and **SVG**, contact me if you have same interesting or some questions!
+![](marc_duiker_pixel_selfie.gif)
 
-### 📫 Contact Me on Social Media
+## 💪 - If you're part of an underrepresented group in the developer community, I'd like to help you with
 
-[Facebook][-1] | [Sina Weibo][0] | [Zhihu][1] | [SegmentFault][2] | [V2EX][3] or just ✉️ [Email](mailto:i@imnerd.org) | 💬 [Issue](https://github.com/lizheming/lizheming/issues/me) Me about everything!
+- Being more involved with the local developer community in the Netherlands.
+- Help with writing Call for Papers, give feedback on presentations.
+- Getting started with serverless on Azure.
 
-### 💡 Projects with My Work
+## 🏁 - Live projects
 
-- [**75.team**](https://75.team): The Official Blog for 75team, the largest front end team in @Qihoo360.
-- [**75CDN**](https://cdn.baomitu.com): The best CDN for web related libraries to speed up your websites, mirror from @cdnjs.
-- [**声享**](https://ppt.baomitu.com): Create and share your presentations online.
+### 🤖 - Azure Functions Updates Twitterbot
 
-### 📚 Tech Articles and Talks 
+I've built the *Azure Functions Updates Twitterbot* ([Twitter](https://twitter.com/az_func_updates), [GitHub](https://github.com/marcduiker/az-func-updates)). It's been tweeting about new releases related to dozens of Azure Functions GitHub repositories since early 2019.
 
-You can find a list of my talks' presentation on 📖 **[ppt.baomitu.com](https://ppt.baomitu.com/u/lizheming)**. 
+There are plans for extending this bot, see the [issues](https://github.com/marcduiker/az-func-updates/issues).
 
-And get all my post articles in my blog 📝 [**zh.eming.li**](https://imnerd.org). 
- 
-### 💻 Open Source Work Stats
+### 📝 - Azure Functions/Durable Functions Workshop
 
+I've made a full day workshop for Azure Functions/Durable Functions called [*Building a resilient workflow using Durable Functions*](https://github.com/marcduiker/building-a-resilient-workflow-with-durable-functions). 
 
-![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=lizheming&show_icons=true)
+I've given this workshop several times, both as in-person classroom training as well as remote. Contact [Xpirit](https://www.xpirit.com/) or myself if you want me to do this workshop for your organization.
 
-[-1]: https://www.facebook.com/Austin.Lee.9173/
-[0]: https://m.weibo.cn/u/1694884707
-[1]: https://www.zhihu.com/people/lizheming
-[2]: https://segmentfault.com/u/lizheming
-[3]: https://www.v2ex.com/member/lizheming
+### 🕹 - Azure Functions, The Game
 
+*Azure Functions, The Game*, is a retro game made with [PICO-8](https://www.lexaloffle.com/pico-8.php). It can be played online [here](https://marcduiker.itch.io/azure-functions-the-game). Sourcecode is in this [repo](https://github.com/marcduiker/pico-8-games).
+
+## 👷 - Currently working on
+
+- A Twitter bot for [meetupgemist.nl](https://meetupgemist.nl).
+- A retro game called YuckyYAML.
+
+## 📞 - You can contact me to
+
+- Give a presentation about **Azure Functions** / **Durable Functions** / **Creative Coding** for your conference/meetup.
+- Do the *Building a resilient workflow using Durable Functions* workshop for your org.
+- Talk about my dreamjob, to be an Azure ☁ 🥑.
+
+## 🧔 - About
+
+- Name: Marc Duiker
+- Pronouns: he/him
+- Company email: mduiker@xpirit.com
+- Twitter: [@marcduiker](https://twitter.com/marcduiker)
+- Presentations: [speakerdeck.com/marcduiker](https://speakerdeck.com/marcduiker)
+- Sessionize: [sessionize.com/marcduiker](https://sessionize.com/marcduiker/)
+- LinkedIn: [linkedin.com/in/mduiker](https://www.linkedin.com/in/mduiker/)
 
 ---
-⭐️ From [lizheming](https://github.com/lizheming)
+⭐️ From [marcduiker](https://github.com/marcduiker)
