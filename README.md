@@ -1,53 +1,43 @@
-# 👋 
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=MrStanDu33&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  <p>
+    <img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
+    <a href="https://daniels-roth-stan.fr/"><img src="https://img.shields.io/website?label=Website%20status%20%3A&url=https%3A%2F%2Fdaniels-roth-stan.fr%2F"/></a>
+    <a href="https://github.com/MrStanDu33/"><img src="https://img.shields.io/github/followers/MrStanDu33?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+    <a href="https://github.com/MrStanDu33?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+    <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
+    <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
+    <a href="https://twitch.tv/mrstandu33"><img src="https://img.shields.io/twitch/status/MrStanDu33?label=Status%20Twitch%20%3A"/></a>
+    <img src="https://img.shields.io/discord/595235640044552223?label=Discord%20Tech%20%3A"/>
+    <img src="https://img.shields.io/badge/Front End-Vue.js-42b883"/>
+    <img src="https://img.shields.io/badge/Back End-Laravel-f55247"/>
+    <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
+  </p>
+</p><br/><br/>
+<p>
+  🎶Now playing ...🎶 <em>(powered by <a href="https://github.com/MrStanDu33/spotify-informer">spotify-explorer</a>)</em><br/>
+  <a href="http://spotify-informer.daniels-roth-stan.fr/">
+    <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
+  </a>
+</p>
 
-Hi, I'm Marc Duiker and I ❤ Serverless, DevCommunity, and Creative Coding! 😊
+<h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
+<p>
+  🧔 Moi c'est <bold>Stan</bold>. 21 ans, barbu et un amateur de code et de ☕.<br/>
+  💼 J'habite à <a href="https://www.google.com/maps?q=bordeaux">Bordeaux</a>, en France.<br/>
+  💻 Développeur Web <bold>T-Shaped</bold><em>(<a href="https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one">?</a>)</em> <bold><a href="https://vuejs.org">Vue.js</a></bold> × <bold><a href="https://laravel.com">Laravel</a></bold>.<br/>
+  🎥 Je fais de temps en temps des lives sur <a href="https://twitch.tv/mrstandu33">Twitch</a>, vous pourrez me voir développer des projets Open Source. <br/>
+  🎓 Mentor sur la plateforme <a href="https://github.com/OpenClassrooms">@OpenClassrooms</a> depuis 3 ans
+</p>
+<p>
+  🔗 Vous souhaitez me contacter ? Alors envoyez-moi un <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20...">mail</a>, ou passez par mon <a href="https://daniels-roth-stan.fr">site</a> !
+</p><br/>
 
-![](marc_duiker_pixel_selfie.gif)
+<details>
+  <summary>Quelques statistiques ...</summary><br/>
 
-## 💪 - If you're part of an underrepresented group in the developer community, I'd like to help you with
+Langages utilisés ces 30 derniers jours :<br/>
+<img src="https://wakatime.com/share/@mrstandu33/7df31eea-b41b-4f62-a910-493802b9a3de.svg" height="400"/>
+</details>
 
-- Being more involved with the local developer community in the Netherlands.
-- Help with writing Call for Papers, give feedback on presentations.
-- Getting started with serverless on Azure.
-
-## 🏁 - Live projects
-
-### 🤖 - Azure Functions Updates Twitterbot
-
-I've built the *Azure Functions Updates Twitterbot* ([Twitter](https://twitter.com/az_func_updates), [GitHub](https://github.com/marcduiker/az-func-updates)). It's been tweeting about new releases related to dozens of Azure Functions GitHub repositories since early 2019.
-
-There are plans for extending this bot, see the [issues](https://github.com/marcduiker/az-func-updates/issues).
-
-### 📝 - Azure Functions/Durable Functions Workshop
-
-I've made a full day workshop for Azure Functions/Durable Functions called [*Building a resilient workflow using Durable Functions*](https://github.com/marcduiker/building-a-resilient-workflow-with-durable-functions). 
-
-I've given this workshop several times, both as in-person classroom training as well as remote. Contact [Xpirit](https://www.xpirit.com/) or myself if you want me to do this workshop for your organization.
-
-### 🕹 - Azure Functions, The Game
-
-*Azure Functions, The Game*, is a retro game made with [PICO-8](https://www.lexaloffle.com/pico-8.php). It can be played online [here](https://marcduiker.itch.io/azure-functions-the-game). Sourcecode is in this [repo](https://github.com/marcduiker/pico-8-games).
-
-## 👷 - Currently working on
-
-- A Twitter bot for [meetupgemist.nl](https://meetupgemist.nl).
-- A retro game called YuckyYAML.
-
-## 📞 - You can contact me to
-
-- Give a presentation about **Azure Functions** / **Durable Functions** / **Creative Coding** for your conference/meetup.
-- Do the *Building a resilient workflow using Durable Functions* workshop for your org.
-- Talk about my dreamjob, to be an Azure ☁ 🥑.
-
-## 🧔 - About
-
-- Name: Marc Duiker
-- Pronouns: he/him
-- Company email: mduiker@xpirit.com
-- Twitter: [@marcduiker](https://twitter.com/marcduiker)
-- Presentations: [speakerdeck.com/marcduiker](https://speakerdeck.com/marcduiker)
-- Sessionize: [sessionize.com/marcduiker](https://sessionize.com/marcduiker/)
-- LinkedIn: [linkedin.com/in/mduiker](https://www.linkedin.com/in/mduiker/)
-
----
-⭐️ From [marcduiker](https://github.com/marcduiker)
+⭐️ From [MrStanDu33](https://github.com/MrStanDu33)
