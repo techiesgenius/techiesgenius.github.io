@@ -1,36 +1,37 @@
-<img src= "https://github.com/Juel07/Juel07/blob/master/github-banner-BW.png"></img>
-<br>
-<br>
-Welcome to my GitHub! I'm Juel, a Biology graduate who's transitioning into Software Engineering. Through self-study and enrolling in a coding Bootcamp at Manchester Codes, I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/j_brgnz">j_brgnz</a> where I'm currently enjoying  <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">#100DaysOfCode</a> and <a href="https://edabit.com/challenges">Edabit</a> challenges.
+### 👋 Introduction
 
-### ⚡ Relevant achievements
-- Awarded 1st place on Code First Girl's Web Dev course
-- Awarded in Top 3 as Most Innovative project in #HackfromHome 2020 
-- Awarded full scholarship by Manchester Codes for demonstrating passion for tech
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Single-red) ![](https://img.shields.io/static/v1?label=wechat&message=lizheming&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/lizheming)
 
-### ✔️ I'm currently learning
-- JavaScript
-- ReactJS
+Hi guys, I'm **Li Zheming**. I am a JavaScript developer from Beijing, China. I'm currently working on @75team as a Font-End engineer.  
+I have some works with **JavaScript**, **Node.js** and **SVG**, contact me if you have same interesting or some questions!
 
-### 👩‍💻 I'm working on
-- Building projects and my portfolio website. 
-Although, I think I'll wait to learn React before I build the website.
+### 📫 Contact Me on Social Media
 
-### 💡 Goals for 2020
-- Complete #100DaysOfCode challenge
-- Build 30+ projects 
-- Become skilled in JavaScript
-- Complete coding bootcamp by October 2020
+[Facebook][-1] | [Sina Weibo][0] | [Zhihu][1] | [SegmentFault][2] | [V2EX][3] or just ✉️ [Email](mailto:i@imnerd.org) | 💬 [Issue](https://github.com/lizheming/lizheming/issues/me) Me about everything!
 
-### 🌴 Fun facts
-- I blog. About food. Recipes and stuff. 
-- I will speak German fluently in 5 months or so.
+### 💡 Projects with My Work
 
-### ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/in/juel-braganza/">juel-braganza</a>
-- Twitter: <a href = "https://twitter.com/j_brgnz">j_brgnz</a>
-- Website: coming soon
-- Food Blog: <a href = "https://callitameal.com">callitameal.com</a>
-<br>
-<br>
-From Juel07 (https://github.com/Juel07)
+- [**75.team**](https://75.team): The Official Blog for 75team, the largest front end team in @Qihoo360.
+- [**75CDN**](https://cdn.baomitu.com): The best CDN for web related libraries to speed up your websites, mirror from @cdnjs.
+- [**声享**](https://ppt.baomitu.com): Create and share your presentations online.
+
+### 📚 Tech Articles and Talks 
+
+You can find a list of my talks' presentation on 📖 **[ppt.baomitu.com](https://ppt.baomitu.com/u/lizheming)**. 
+
+And get all my post articles in my blog 📝 [**zh.eming.li**](https://imnerd.org). 
+ 
+### 💻 Open Source Work Stats
+
+
+![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=lizheming&show_icons=true)
+
+[-1]: https://www.facebook.com/Austin.Lee.9173/
+[0]: https://m.weibo.cn/u/1694884707
+[1]: https://www.zhihu.com/people/lizheming
+[2]: https://segmentfault.com/u/lizheming
+[3]: https://www.v2ex.com/member/lizheming
+
+
+---
+⭐️ From [lizheming](https://github.com/lizheming)
