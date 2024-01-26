@@ -1,29 +1,50 @@
-## नमस्ते 🙏
-[![](https://img.shields.io/badge/LinkedIn-ayushkumar25-blue)](https://www.linkedin.com/in/ayushkumar25/)
-[![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red)](mailto:ayush2608@gmail.com)
-[![](https://img.shields.io/badge/Telegram-%40ayushkumar__25-blue)](https://t.me/ayushkumar_25)
-[![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen)](https://www.hackerrank.com/ayushkumar_25)
+```python
+class ReadMe:
+    def __init__(self, username="israelias", year=2020):
+        self.username = username
+        self.name = 'Joem Elias Sanez'
+        self.education = {
+            'programming': ['Full Stack Software Development', 'Code Institute'],
+            'architecture': ['Master of Architecture', 'Columbia University'],
+            'art': ['Bachelor of Fine Arts', 'Otis College of Art and Design']
+        }
+        self.employment = {
+            'developer': ['company', 'city'],
+            'architect': ['Foster + Partners', ['Singapore', 'New York']],
+            'designer': ['Herzog & de Meuron', ['New York', 'Basel']]
+        }
 
-![](https://github.com/ayushkumar-25/ayushkumar-25/blob/master/aboutMe.png)
-<!-- TO make screenshot of your code, copy below link:  
-https://carbon.now.sh/ -->
+    def doing(self, now=2020):
+        today = self.year
 
-## About Me:
-#### Always curious to learn cutting edge technology. A bit enthusiast towards web development. Competitive coding and motor sports boost my adrenaline. <br> <br>
+        if now < today:
+            experience = self.employment['architect']
+            return """
+            I was a design architect with {large_firms} in {big_cities}.
+            """.format(large_firms=experience[0], big_cities=experience[1])
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25) <br>
-<!-- [![HitCount](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25) -->
+        elif now = today:
+            dream = self.education['programming']
+            return """
+            I am currently learning {code} at {code_institute}.
+            """.format(code=dream[0], code_institute=dream[1])
 
+        elif now > today:
+            goal = self.employment['developer']
+            return """
+            I am eager to collaborate with {teams} on {projects}.
+            """.format(teams=goal[0], projects='software development')
+        else:
+            return """
+            ### Hi there 👋
+            """
+        
+    def collaborate(self, role, organization, location):
+        opportunity = self.employment
+        opportunity[role] = [organization, location]
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25)
-[![HitCount](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25) <br>
-
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+me = ReadMe(2020)
+```
 
 ---
-
-⭐️ From [@ayushkumar-25](https://github.com/ayushkumar-25)
-
-<!-- TO make screenshot of your code, copy below link:  
-https://carbon.now.sh/ -->
+⭐️ From [israelias](https://github.com/israelias)
