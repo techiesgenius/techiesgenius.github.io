@@ -1,56 +1,45 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=reisub0" alt="reisub0" />
-</p>
+# Sudipto Ghosh 👨‍💻
 
-<h3>Why, hello there.</h3>
+[![ACM](https://img.shields.io/badge/-ACM%20Student%20Member-222222?style=flat-square&logo=acm&logoColor=white&link=http://member.acm.org/~sudiptoghosh)](http://member.acm.org/~sudiptoghosh)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ScientificGhosh/)](https://twitter.com/ScientificGhosh/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/sudiptoghosh99/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10780031/sudipto-ghosh)](https://stackoverflow.com/users/10780031/sudipto-ghosh)
+[![Keybase](https://img.shields.io/badge/-Keybase-222222?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/sudiptog81)](https://keybase.io/sudiptog81)
 
-Here's my `Manifest.toml`:
+👨‍🎓 Majoring in Computer Science and Mathematics  from the University of Delhi (Class of 2022) 
 
-```toml
-
-[personal]
-name = 'Govind KP'
-city = 'Bengaluru, India'
-email = 'reisub0 "at" gmail.com'
-
-[professional]
-currently-employed = true
-title = 'Software Development Engineer'
-employer = 'MathWorks Inc.'
-
-[bio]
-categories = [
-  'generalist',
-]
-interests = [
-  'functional-programming',
-  'linux',
-  'open-source',
-]
-programming-languages = [
-  'c/cpp',
-  'python',
-  'unity/c#',
-  'rust',
-  'go',
-]
-
-
+```js
+export default () => ({
+  pronouns: "He" | "Him",
+  pubKey: "866E 3ED1 217B 85DC",
+  blogUrl: "http://blog.ghosh.pro/",
+  askMeAbout: [
+    "webdev", "tech", "music",
+    "mathematics", "research"
+  ],
+  technologies: {
+    frontEnd: {
+      js: ["react", "angular", "vue"],
+      css: ["materialize", "bulma", "bootstrap"]
+    },
+    backEnd: {
+      java: ["spring"],
+      js: ["node", "express"],
+      csharp: ["asp.net core"],
+      python: ["django", "flask"],
+      misc: ["bash", "systemd", "selinux"]
+    },
+    machineLearning: ["tensorflow", "keras", "pytorch"],
+    databases: ["mongo", "postgres", "redis"]
+  },
+  memberships: [
+    "Internet Freedom Foundation",
+    "Association for Computing Machinery",
+    "Institute of Electrical and Electronics Engineers"
+  ]
+});
 ```
 
-I'm always interested in meeting new people, so feel free to reach out to me using the links below.
+---
 
-<p align="center">
-  <a href="mailto:reisub0@gmail.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="20" width="20" /></a>
-  <a href="https://linkedin.com/in/govind-kp"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20"     width="20" /></a>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=reisub0&show_icons=true" alt="reisub0" /> 
-
-</p>
-<p align="left"> </p>
-
-
-
-⭐️ From [reisub0](https://github.com/[reisub0])
+⭐️ From [sudiptog81](https://github.com/sudiptog81)
